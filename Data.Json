@@ -1,0 +1,41 @@
+[ {
+  "brand" : "harley-davidson",
+  "vehicleType" : "Motorbike",
+  "model" : "street",
+  "color" : "grey",
+  "year" : 2015,
+  "price" : 25000.0,
+  "quantity" : 9,
+  "bikeType" : "cruiser",
+  "engineSize" : 750
+}, {
+  "brand" : "mercedes-benz",
+  "vehicleType" : "Truck",
+  "model" : "arocs",
+  "color" : "red",
+  "year" : 2020,
+  "price" : 90000.0,
+  "quantity" : 2,
+  "engineType" : "diesel",
+  "payloadCapacity" : 20000
+}, {
+  "brand" : "audi",
+  "vehicleType" : "Car",
+  "model" : "r8",
+  "color" : "black",
+  "year" : 2017,
+  "price" : 78000.0,
+  "quantity" : 6,
+  "fuelType" : "gas",
+  "cartype" : "sports"
+}, {
+  "brand" : "audi",
+  "vehicleType" : "Car",
+  "model" : "r8",
+  "color" : "white",
+  "year" : 2017,
+  "price" : 20000.0,
+  "quantity" : 5,
+  "fuelType" : "gas",
+  "cartype" : "sports"
+} ]
