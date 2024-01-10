@@ -6,7 +6,7 @@ import java.util.List;
  
 public class Json implements dataHandeling{
     
-      private static final String filePath="C:\\Users\\Kamal\\OneDrive\\Documents\\UA\\semester_5\\OOP\\project\\OOP1_project\\mavenproject1\\src\\Data.Json";
+      private static final String filePath="Data.Json";
        
      @Override
     public void WriteFromArrayList(List<Vehicle> vehicles) {
